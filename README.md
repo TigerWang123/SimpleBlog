@@ -1,0 +1,2 @@
+# SimpleBlog
+Learn Django
